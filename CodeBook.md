@@ -19,13 +19,17 @@ Two dimensionless identifiers.
 **Subject**
 
 Identifies the subject who was performing the activity for each sample.
+
 Class: integer
+
 Range: [1, 30]
 
 **Activity**
 
 Identify the activity that was taking place on each sample.
+
 Class: factor
+
 Range: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 ##Measurements
